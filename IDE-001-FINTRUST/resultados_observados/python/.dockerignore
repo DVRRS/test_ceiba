@@ -1,0 +1,46 @@
+# Virtual environments
+env/
+venv/
+test-env/
+
+# Environment files
+.env
+.env.local
+*.json
+
+# Git
+.git
+.gitignore
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Documentation
+*.md
+README.md
+VALIDACION.md
+DEPLOY.md
+
+# Tests
+src/tests/
+
+# Scripts de utilidad
+test_validacion.py
+test_validacion_simple.py
+deploy.sh
