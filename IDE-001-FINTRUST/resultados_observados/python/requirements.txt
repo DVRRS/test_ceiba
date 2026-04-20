@@ -1,0 +1,7 @@
+fastapi
+google-cloud-bigquery
+pydantic
+pydantic-settings
+pytest
+urllib3<2
+uvicorn
