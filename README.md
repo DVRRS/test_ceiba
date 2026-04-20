@@ -195,7 +195,7 @@ IDE-001-FINTRUST/
 │       ├── VALIDACION.md               # Reporte de validaciones
 │       └── DEPLOY.md                   # Guía de deployment a Cloud Run
 └── bonus_LLMs/
-    └── propuesta_llm.md                      # Registro de riesgos conocidos
+    └── propuesta_llm.md                # Propuesta uso LLM
 ```
 
 ---
